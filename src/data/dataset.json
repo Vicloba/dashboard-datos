@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nombre": "Producto Monitor",
+    "precio": 3500.00,
+    "ventas": 45,
+    "categoria": "Electrónica"
+  },
+  {
+    "id": 2,
+    "nombre": "Teclado Mecánico",
+    "precio": 450.00,
+    "ventas": 120,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 3,
+    "nombre": "Mouse Óptico",
+    "precio": 250.50,
+    "ventas": 85,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 4,
+    "nombre": "Silla Gamer",
+    "precio": 2800.00,
+    "ventas": 30,
+    "categoria": "Mobiliario"
+  },
+  {
+  "id": 5,
+  "nombre": "Laptop Test",
+  "precio": 10000.00,
+  "ventas": 10,
+  "categoria": "Electrónica"
+}
+]
